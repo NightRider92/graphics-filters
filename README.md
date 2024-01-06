@@ -17,8 +17,7 @@ Fisheye is being calculated by equisolid angle projection formula which means we
 ![image](https://github.com/NightRider92/graphics-filters/assets/10942663/5f250681-8985-4e51-a4ed-453f3dd4514d)
 
 **Color inversion**
-
-![image](https://github.com/NightRider92/graphics-filters/assets/10942663/8774f3a4-1164-4445-a113-f651cb0783a)
+![image](https://github.com/NightRider92/graphics-filters/assets/10942663/1c09a01e-6f6a-4bac-90b8-4e37457b7f41)
 
 
 **All 3 filters applied**
